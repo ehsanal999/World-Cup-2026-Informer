@@ -1,4 +1,4 @@
-# STOMP Protocol Client-Server Application 🚀
+# ⚽ World Cup 2026 Informer — STOMP Client-Server Application 🚀
 
 **Systems Programming (SPL) - Assignment 3**
 
@@ -134,3 +134,10 @@ The system fully implements a subset of the STOMP protocol for internal client-s
 
 ---
 *Developed as part of the Systems Programming course at Ben-Gurion University of the Negev.*
+
+---
+
+## 👥 Authors
+
+- **Ehsan Alhwajra** — [github.com/ehsanal999](https://github.com/ehsanal999)
+- **Bahaa Abu Friha** — [github.com/bahaash2004](https://github.com/bahaash2004)
